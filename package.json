@@ -1,0 +1,36 @@
+{
+  "name": "react-test-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "axios": "0.13.1",
+    "bootstrap": "^3.3.5",
+    "history": "^3.0.0",
+    "moment": "^2.10.6",
+    "react": "15.3.0",
+    "react-dom": "15.3.0",
+    "react-router": "2.6.1",
+    "react-tooltip": "3.1.5"
+  },
+  "scripts": {
+    "lol": "node server.js"
+  },
+  "description": "this project needed for learning react framework",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "truefunrun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truefunrun/reactTestProject.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "javascript",
+    "es6"
+  ],
+  "bugs": {
+    "url": "https://github.com/truefunrun/reactTestProject/issues"
+  },
+  "homepage": "https://github.com/truefunrun/reactTestProject#readme"
+}
